@@ -13,3 +13,4 @@
 - [基本知识](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a05-BasicKnowledge/md/4.%20%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86.md)
 - [数组 Array](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a6-array/md/5.%20Array.md)
 - [栈 stack](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a07-stack/md/6.%20Stack.md)
+- [队列 Queue](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a08-Queue/md/7.%20Queue.md)
