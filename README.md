@@ -14,3 +14,4 @@
 - [数组 Array](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a6-array/md/5.%20Array.md)
 - [栈 stack](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a07-stack/md/6.%20Stack.md)
 - [队列 Queue](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a08-Queue/md/7.%20Queue.md)
+- [链表 LinkedList](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a09-LinkedList/8.%20LinkedList.md)
