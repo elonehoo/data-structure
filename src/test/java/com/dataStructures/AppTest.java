@@ -1,4 +1,4 @@
-package com.dataStructure;
+package com.dataStructures;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

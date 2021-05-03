@@ -1,4 +1,8 @@
-package com.code.a04;
+package com.dataStructure.a04.code;
+
+
+import cn.hutool.core.date.DateUtil;
+import cn.hutool.core.date.TimeInterval;
 
 /**
 
@@ -23,12 +27,14 @@ public class BasicAlgorithm {
      * @return void
     */
     public static void simple(){
+        TimeInterval timer = DateUtil.timer();
         int sum = 0;
         int n = 100;
         for (int i = 1; i <= n; i++) {
             sum += i;
         }
         System.out.println( "simple ===>" + sum);
+        System.out.println( "simple time ===>" + timer.interval());
     }
 
     /**
@@ -38,10 +44,12 @@ public class BasicAlgorithm {
      * @return void
     */
     public static void Gaussian(){
+        TimeInterval timer = DateUtil.timer();
         int sum = 0;
         int n = 100;
         sum = (1 + n) * n /2;
         System.out.println( "Gaussian ===>" + sum);
+        System.out.println( "Gaussian time ===>" + timer.interval());
     }
 
 }
