@@ -10,4 +10,4 @@
 - [逻辑结构](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a02/md/1.%20%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84.md)
 - [物理结构](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a03/md/2.%20%E7%89%A9%E7%90%86%E7%BB%93%E6%9E%84.md)
 - [算法之间的比较](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a04/md/3.%20%E7%AE%97%E6%B3%95%E4%B9%8B%E9%97%B4%E7%9A%84%E6%AF%94%E8%BE%83.md)
-- [基本知识](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a05/md/4.%20%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86.md)
+- [基本知识](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a06/md/5.%20%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86.md)
