@@ -12,3 +12,4 @@
 - [算法之间的比较](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a04/md/3.%20%E7%AE%97%E6%B3%95%E4%B9%8B%E9%97%B4%E7%9A%84%E6%AF%94%E8%BE%83.md)
 - [算法](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a05/md/4.%20%E7%AE%97%E6%B3%95.md)  
 - [基本知识](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a06/md/5.%20%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86.md)
+- [线性表](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a07/md/6.%20%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
