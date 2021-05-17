@@ -14,3 +14,4 @@
 - [基本知识](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a06/md/5.%20%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86.md)
 - [线性表](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a07/md/6.%20%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
 - [单链表](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a08/md/7.%20%E5%8D%95%E9%93%BE%E8%A1%A8.md)
+- [栈](https://github.com/xiaoxunyao/data-structure/blob/master/src/main/java/com/dataStructure/a09/md/8.%20%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97.md)
